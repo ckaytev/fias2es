@@ -1,0 +1,6 @@
+argparse==1.4.0
+elasticsearch==8.5.3
+loguru==0.5.3
+numpy==1.24.2
+pandas==1.5.3
+tqdm==4.65.0
